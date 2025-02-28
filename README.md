@@ -12,7 +12,7 @@ I'm a Control Engineer/Data Scientist passionate about Data Science, Machine Lea
 - [Project 2](https://github.com/yourusername/project2): A brief description.
 -->
 ## 📫 How to Reach Me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/asmaa-nasr-346430206)
+- LinkedIn: [Asmaa Nasr](https://www.linkedin.com/in/asmaa-nasr-346430206)
 - Kaggle: [Asmaa Nasr](https://www.kaggle.com/anmuser)
 <!-- - Portfolio: [Your Portfolio Website](https://yourwebsite.com)
 - Email: your.email@example.com
