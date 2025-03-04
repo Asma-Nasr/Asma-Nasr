@@ -1,6 +1,8 @@
 ## Hi, I'm Asmaa Nasr 👋
 
-I'm a Control Engineer/Data Scientist passionate about Data Science, Machine Learning, BCI, and Robotics.
+I'm a Control Engineer/Data Scientist passionate about Data Science, Machine Learning, BCI, and Robotics. 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Asma-Nasr&color=blue)
 
 ## 🔧 Technologies & Tools
 - Languages: Python, MATLAB, C++.
@@ -23,7 +25,6 @@ I'm a Control Engineer/Data Scientist passionate about Data Science, Machine Lea
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-nasr&show_icons=true&theme=radical)
 
 -->
-
 
 
 
