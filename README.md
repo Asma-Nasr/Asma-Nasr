@@ -8,47 +8,20 @@ I'm a Control Engineer/Data Scientist passionate about Data Science, Machine Lea
 - Languages: Python, MATLAB, C++.
 - Frameworks: TensorFlow, PyTorch, Scikit Learn.
 - Tools: Git, Webots.
-<!--
-## 🚀 Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description.
-- [Project 2](https://github.com/yourusername/project2): A brief description.
--->
+
 ## 📫 How to Reach Me
 - LinkedIn: [Asmaa Nasr](https://www.linkedin.com/in/asmaa-nasr-346430206)
 - Kaggle: [Asmaa Nasr](https://www.kaggle.com/anmuser)
-<!-- - Portfolio: [Your Portfolio Website](https://yourwebsite.com)
-- Email: your.email@example.com
-
-
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-nasr&show_icons=true&theme=radical)
 
--->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asma-Nasr&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=Asma-Nasr&show_icons=true&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Nasr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=Asma-Nasr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-
-
-
-
-
-
-<!--
-**Asma-Nasr/Asma-Nasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
