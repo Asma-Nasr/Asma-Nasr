@@ -14,9 +14,7 @@ I'm a Control Engineer/Data Scientist passionate about Data Science, Machine Lea
 - Kaggle: [Asmaa Nasr](https://www.kaggle.com/anmuser)
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asma-Nasr&theme=dark&hide_border=false)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asma-Nasr&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Asma-Nasr&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Nasr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
